@@ -1,4 +1,4 @@
-# Advanced_Scientific_Programming
+# Advanced Scientific Programming - WE
 Repository for the course Advanced Scientific Programming
 
 In this repository yuo can find and follow the progress of my project for the course Advanced Scientific Programming.
