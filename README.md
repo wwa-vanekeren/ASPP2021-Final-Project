@@ -8,4 +8,4 @@ In this particular project I will improve existing python scripts used to analyz
 In these scripts different text/excel files are read, analyzed and plotted in python. 
 The ultimate goal is to develop standardised scripts for handling data from different potentiostats. 
 I will improve the structure and organization of existing scripts analyzing the experimental data, and hopefully optimize the code for speed/memory usage.
-The project will focus on creating a standardized script/template for one of the potentiostats, which can be used for other potentiostats as well.
+The project will focus on creating a standardized script/template for one of the potentiostats, which can be modified to be applicable on other potentiostats as well.
